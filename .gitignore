@@ -1,0 +1,53 @@
+```
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Dependencies
+.venv/
+venv/
+env/
+.env
+.env.local
+.env.*
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*.tmp
+
+# Coverage reports
+.coverage
+htmlcov/
+coverage/
+
+# MyPy cache
+.mypy_cache/
+# Pytest cache
+.pytest_cache/
+
+# Distribution / packaging
+*.tar.gz
+*.whl
+*.zip
+
+# IDE
+*.sublime-project
+*.sublime-workspace
+```
